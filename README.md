@@ -4,7 +4,7 @@ Frequently Asked Questions
 
 What is a [service animal](https://www.duckduckgo.com/?q="service+animal"+"FAQ"+site%3Aada.gov)?  
 
-[ADA](https://www.duckduckgo.com/?q="service+animal"+"FAQ"+site%3Aada.gov)  
+[ADA](https://search.ada.gov/search?query=service+animal+FAQ)
 
 [Alaska](https://duckduckgo.com/?q="service+animal"+"FAQ"+site%3A+Alaska.gov)
 [Alabama](https://duckduckgo.com/?q="service+animal"+"FAQ"+site%3A+Alabama.gov)
