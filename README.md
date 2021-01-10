@@ -1,7 +1,8 @@
 # [FAQ](https://github.com/serviceanimals/FAQ)
 
 <embed src="pdfs/service_animal_qa.pdf" type="application/pdf"   height="300px" width="100%" class="responsive">
-<a href="pdfs/service_animal_qa.pdf">Please tap to download pdf FAQ file.</a>
+<a href="pdfs/service_animal_qa.pdf">Please tap here to download pdf FAQ file.</a>
+
 
 [Frequently Asked Questions about Service Animals and the ADA](https://www.ada.gov/regs2010/service_animal_qa.html)
 
