@@ -1,14 +1,10 @@
 # [FAQ](https://github.com/serviceanimals/FAQ)
 
-Frequently Asked Questions
-
-What is a [service animal](https://www.duckduckgo.com/?q="service+animal"+"FAQ"+site%3Aada.gov)?  
-
-[ADA](https://ada.gov/)
-
-[ADA Requirements Service Animals](https://www.ada.gov/service_animals_2010.htm)
-
 [Frequently Asked Questions about Service Animals and the ADA](https://www.ada.gov/regs2010/service_animal_qa.html)
+
+[What are the ADA requirements for service animals?](https://www.ada.gov/service_animals_2010.htm)
+
+[What is the ADA?](https://ada.gov/)
 
 [Alaska](https://duckduckgo.com/?q="service+animal"+"FAQ"+site%3A+Alaska.gov)
 [Alabama](https://duckduckgo.com/?q="service+animal"+"FAQ"+site%3A+Alabama.gov)
