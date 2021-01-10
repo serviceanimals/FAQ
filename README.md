@@ -1,5 +1,7 @@
 # [FAQ](https://github.com/serviceanimals/FAQ)
 
+<embed src="pdfs/service_animal_qa.pdf" type="application/pdf" width="100%" height="600px" />
+
 [Frequently Asked Questions about Service Animals and the ADA](https://www.ada.gov/regs2010/service_animal_qa.html)
 
 [What are the ADA requirements for service animals?](https://www.ada.gov/service_animals_2010.htm)
