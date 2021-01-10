@@ -1,11 +1,7 @@
 # [FAQ](https://github.com/serviceanimals/FAQ)
 
 <embed src="pdfs/service_animal_qa.pdf" type="application/pdf"   height="300px" width="100%" class="responsive">
-<a href="pdfs/service_animal_qa.pdf">tap to download pdf file</a>
-
-<embed src="http://infolab.stanford.edu/pub/papers/google.pdf#toolbar=0&navpanes=0&scrollbar=0" type="application/pdf" frameBorder="0" scrolling="auto" height="100%" width="100%" ></embed>
-
-<iframe src="http://infolab.stanford.edu/pub/papers/google.pdf#toolbar=0&navpanes=0&scrollbar=0" frameBorder="0" scrolling="auto" height="100%" width="100%" ></iframe>
+<a href="pdfs/service_animal_qa.pdf">Please tap to download pdf FAQ file.</a>
 
 [Frequently Asked Questions about Service Animals and the ADA](https://www.ada.gov/regs2010/service_animal_qa.html)
 
