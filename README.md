@@ -46,9 +46,8 @@
 [Wyoming](https://duckduckgo.com/?q="service+animal"+"FAQ"+site%3A+Wyoming.gov)
 [Wisconsin](https://duckduckgo.com/?q="service+animal"+"FAQ"+site%3A+Wisconsin.gov)
 
-[Issues at this link](https://github.com/serviceanimals/FAQ/issues)  
+[Issues](https://github.com/serviceanimals/FAQ/issues)  
 
-[Suggest change via pull request at this link](https://github.com/serviceanimals/FAQ/pulls)
+[Pull Requests](https://github.com/serviceanimals/FAQ/pulls)
 
 <!-- FAQ README.md EOF -->
-
