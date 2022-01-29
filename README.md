@@ -5,6 +5,7 @@
 <embed src="pdfs/service_animal_qa.pdf" type="application/pdf"   height="300px" width="100%" class="responsive">
 <a href="pdfs/service_animal_qa.pdf">Please tap here to download pdf FAQ file.</a>
 
+
 [Frequently Asked Questions about Service Animals and the ADA](https://www.ada.gov/regs2010/service_animal_qa.html)
 
 [What are the ADA requirements for service animals?](https://www.ada.gov/service_animals_2010.htm)
