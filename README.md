@@ -1,5 +1,8 @@
 <link rel="prerender" href="https://serviceanimals.github.io/FAQ/">
 
+What is a service animal?
+A service animal must have a task that helps its handler.
+
 # [serviceanimals/](https://serviceanimals.github.io/)[FAQ](https://github.com/serviceanimals/FAQ)
 
 <embed src="pdfs/service_animal_qa.pdf" type="application/pdf"   height="300px" width="100%" class="responsive">
